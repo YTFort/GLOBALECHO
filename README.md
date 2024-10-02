@@ -1,7 +1,7 @@
 ![Header](/media/logo.png)
-<a href="https://github.com/YTFort/MIOXY-BOOSTED/stargazers"><img src="https://badgen.net/github/stars/YTFort/MIOXY-BOOSTED" alt="GitHub stars"/></a>
-<a href="https://github.com/YTFort/MIOXY-BOOSTED"><img src="https://badgen.net/github/forks/YTFort/MIOXY-BOOSTED" alt="GitHub forks"/></a>
-<a href="https://github.com/YTFort/MIOXY-BOOSTED/releases"><img src="https://badgen.net/github/assets-dl/YTFort/MIOXY-BOOSTED" alt="GitHub download"/></a>
+<a href="https://github.com/YTFort/GLOBALECHO/stargazers"><img src="https://badgen.net/github/stars/YTFort/GLOBALECHO" alt="GitHub stars"/></a>
+<a href="https://github.com/YTFort/GLOBALECHO"><img src="https://badgen.net/github/forks/YTFort/GLOBALECHO" alt="GitHub forks"/></a>
+<a href="https://github.com/YTFort/GLOBALECHO/releases"><img src="https://badgen.net/github/assets-dl/YTFort/GLOBALECHO" alt="GitHub download"/></a>
 
 # GLOBALECHO
 
