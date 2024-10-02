@@ -37,7 +37,7 @@
 # Installation
 
 * Install [Node.js](https://nodejs.dev) and [Python](https://www.python.org/)
-* Download the program from [Release](https://github.com/YTFort/GLOBALECHO/releases) or `git clone https://github.com/YTFort/MIOXY-BOOSTED.git`
+* Download the program from [Release](https://github.com/YTFort/GLOBALECHO/releases) or `git clone https://github.com/YTFort/GLOBALECHO.git`
 * `cd GLOBALECHO`
 * `pip install -r requirements.txt`
 * `npm install`
@@ -53,7 +53,7 @@
 serverlist = list.txt   # - The path to the file from the ip servers
 maxtheards = 20         # - The maximum number of threads (preferably 20 - 40)
 [text]
-message = Hello World!   # - Your message is here
+message = Hello World!  # - Your message is here
 ```
 
 * Add the ip of the servers to `list.txt ` (Example: localhost:25565, 127.0.0.1) (Bots will not log into a bot-protected server)
