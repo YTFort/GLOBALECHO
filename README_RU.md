@@ -37,7 +37,7 @@
 # Установка
 
 * Установите [Node.js](https://nodejs.dev) и [Python](https://www.python.org/)
-* Скачайте программу из [Release](https://github.com/YTFort/MIOXY-BOOSTED/releases) или `git clone https://github.com/YTFort/MIOXY-BOOSTED.git`
+* Скачайте программу из [Release](https://github.com/YTFort/GLOBALECHO/releases) или `git clone https://github.com/YTFort/MIOXY-BOOSTED.git`
 * `cd GLOBALECHO`
 * `pip install -r requirements.txt`
 * `npm install`
