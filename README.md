@@ -37,7 +37,7 @@
 # Installation
 
 * Install [Node.js](https://nodejs.dev) and [Python](https://www.python.org/)
-* Download the program from [Release](https://github.com/YTFort/MIOXY-BOOSTED/releases) or `git clone https://github.com/YTFort/MIOXY-BOOSTED.git`
+* Download the program from [Release](https://github.com/YTFort/GLOBALECHO/releases) or `git clone https://github.com/YTFort/MIOXY-BOOSTED.git`
 * `cd GLOBALECHO`
 * `pip install -r requirements.txt`
 * `npm install`
